@@ -1,3 +1,3 @@
 git is awesome!
 new line
-eperiment with --amend
+experiment with --amend
